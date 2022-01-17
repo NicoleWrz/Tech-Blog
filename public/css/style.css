@@ -32,7 +32,7 @@ h6 {
 }
 
 h2 a:visited {
-  color: var(--tertiary);
+  color: var(--light-dark);
 }
 
 h2 a {
@@ -86,7 +86,7 @@ input {
 
 .btn:hover {
   color: var(--primary);
-  background-color: var(--tertiary);
+  background-color: var(--light-dark);
   transform: translate(0, 0);
   box-shadow: 2px 2px var(--dark);
 }
