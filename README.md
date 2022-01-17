@@ -17,9 +17,10 @@ This project is a CMS-style blog site where developers can publish their blog po
 npm install
 
 ## Screenshot
-![]()
+![](https://github.com/NicoleWrz/Tech-Blog/blob/dade7a891e6cc20e25e7a54222a67017065b62f6/public/techblog%20SS.png)
   
 ## Deployed-Link
+[Heroku Link](https://mvc-tech-blog5.herokuapp.com/)
 
 ## License
 [![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&link=https://choosealicense.com/licenses/mit/)](https://choosealicense.com/licenses/mit/)
